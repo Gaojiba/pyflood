@@ -1,4 +1,3 @@
 # pyflood
 
-Support HTTP DOS
-TCP/ UPD and SYN Flooding
+Hades.y2k
